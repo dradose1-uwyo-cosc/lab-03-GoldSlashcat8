@@ -3,7 +3,7 @@
 # 9/26/24
 # Lab 03 
 # Lab Section: 12
-# Sources, people worked with, help given to: Peter Martinez
+# Sources, people worked with, help given to: Peter Martinez, Cole Jordan
 # your
 # comments
 # here
