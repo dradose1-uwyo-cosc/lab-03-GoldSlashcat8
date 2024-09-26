@@ -3,7 +3,7 @@
 # 9/26/24
 # Lab 03 
 # Lab Section: 12
-# Sources, people worked with, help given to: 
+# Sources, people worked with, help given to: Peter Martinez
 # your
 # comments
 # here
@@ -67,5 +67,5 @@ print(states_list)
 states_list.sort(reverse=True)
 print(states_list)
 #Using the reverse method reverse the list and print it
-
-print(states_list.reverse())
+states_list.reverse()
+print(states_list)
